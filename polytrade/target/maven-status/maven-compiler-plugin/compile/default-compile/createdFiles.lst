@@ -1,0 +1,11 @@
+Reusables\BaseTest.class
+Reusables\Log.class
+ExtentReports\ReportConfiguration.class
+Reusables\Steps.class
+Object_Repository\Home_Screen.class
+Testcases\VerifyPolicyTradeHome.class
+Reusables\Browsers.class
+Reusables\common_methods.class
+Reusables\Datatable.class
+Testcases\VerifyWorldofTSpice.class
+Object_Repository\WorldofTSpice.class
